@@ -1,0 +1,20 @@
+{
+    "host": "https://roxacloud.shop",
+    "admin": 666451370,
+    "port": 3001,
+    "botToken": "7487450656:AAH6_nCjUzYNFGt8EJmEbXXTyrI0j-hjyOc",
+    "mongodb": "mongodb+srv://cluster0.a8tlqxq.mongodb.net",
+    "wallet": "shock clarify jazz rough witness shiver advice first advance that unaware car",
+    "gatewayId": {
+        "paystar": "vnox3x1361o84g"
+    },
+    "encryptionKey": {
+        "paystar": "0C058D6D0A472C49B57B9B51ABA22A4CADEC43E27654B4D1184F3D4A0F1EB5A43DB5A1F82A61880FF7D3A5D69A56BD794B51D2CBAF73E7B1BA319A30C827A32818311372397165F42B28532D0D95734D985AA2BE48B3D5F730EB73A4378AB39195B96285BBBD4FC2077A6151D6EC593FE445420D7041C9F1695E647CC235EA82"
+    },
+    "channel": {
+        "text": "\u062a\u0631\u0648\u0646 \u0648\u0627\u0644\u062a",
+        "id": "tronWalt",
+        "uuid": -1002176099255
+    },
+    "paymentGateway": "zibal"
+}
